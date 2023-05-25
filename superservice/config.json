@@ -1,17 +1,5 @@
 {
-    "megaflag": {
-        "value": true,
-        "enabled": true,
-        "type": "flag"
-    },
-    "anotherflag": {
-        "value": false,
-        "enabled": false,
-        "type": "flag"
-    },
-    "someconfig": {
-        "value": true,
-        "enabled": true,
-        "type": "config"
-    }
+    "megaflag": true,
+    "anotherflag": false,
+    "someflag": true
 }
