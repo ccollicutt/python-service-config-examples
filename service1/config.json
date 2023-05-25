@@ -1,5 +1,17 @@
 {
-    "feature1": "true",
-    "feature2": "true",
-    "feature3": "false"
+    "feature1": {
+        "value": "true",
+        "enabled": true,
+        "type": "flag"
+    },
+    "feature2": {
+        "value": "true",
+        "enabled": false,
+        "type": "flag"
+    },
+    "config1": {
+        "value": "/some/path",
+        "enabled": false,
+        "type": "config"
+    }
 }
